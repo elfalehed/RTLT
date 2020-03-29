@@ -3,24 +3,13 @@ RTLT "Resources To Learn Tech"  is a repository made to collect the major resour
 We are gonna devide the resources into the common known fields/topics such as : Programming, Hacking, Networking ..etc
 
 The structure is gonna be like this : 
-# Programming : 
-## Programming_Languages: 
-### (Resources over here) 
-## Algorithms & Data Structures 
-### (Resources over here) 
-   etc.. 
 
-# Hacking : 
-## Tools 
-### Tutorials: 
-#### (Resources over here) 
-## Concepts: 
-### (Resources over here) 
+## Main folder 
+### Resources : 
+* Divided into topics 
+* You can follow on the README file. 
 
-# Networking : 
-## Definitions : 
-### (Resources over here) 
-## Concepts & Tutorials : 
-### (Resources over here) 
+
+
 
 
