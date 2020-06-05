@@ -1,2 +1,2 @@
-# Python 
-- [ww3school.wom] (#ww3School)
+# :snake: Python 
+- #WW3 School in one the best websites you can find. A lot of good documentations, games, challenges and more... 
