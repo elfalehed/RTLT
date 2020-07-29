@@ -5,9 +5,14 @@ We are gonna devide the resources into the common known fields/topics such as : 
 The structure is gonna be like this : 
 
 ## Main folder 
-### :bookmark: Resources : 
-* Divided into topics 
-* You can follow on the README file. 
+### :bookmark: Resources : <br />
+Each Resource is gonna be divided into topis: <br />
+- Programming:  Programming languages, frameworks, libraries..etc <br />
+- Hacking: Vuluns, Linux ..etc <br />
+- Networking: Links, courses..etc <br />
+- Robotics: How to, Courses ..etc <br />
+
+
 
 
 
