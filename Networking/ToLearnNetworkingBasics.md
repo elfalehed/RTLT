@@ -1,7 +1,7 @@
-# Basics 
+# :satellite: Networking  <br />
 
-#2READ : 
+#Links : <br />
 
-*  https://www.hamza.world/Tutorials/networking?fbclid=IwAR0MqPc238oPMlwyRrP-2d0IcPa6doMskm2Fq4X13PsnPDY8aodVU71C6_s#collapse1_23
+-  https://www.hamza.world/Tutorials/networking?fbclid=IwAR0MqPc238oPMlwyRrP-2d0IcPa6doMskm2Fq4X13PsnPDY8aodVU71C6_s#collapse1_23  (Course)
 
 
