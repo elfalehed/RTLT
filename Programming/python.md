@@ -15,7 +15,7 @@
 - https://www.codecademy.com/learn/learn-python
 - https://docs.python.org/2/tutorial/
 - https://www.learnpython.org/
-- https://www.youtube.com/watch?v=FfWpgLFMI7w&feature=share&fbclid=IwAR3gC-_d-ZAtIrGkdFyYjDr1YN9n6XdQUcy97CoTtMhxTv9ymSGns7UKiMU(pygame tutorial)
+- https://www.youtube.com/watch?v=FfWpgLFMI7w&feature=share&fbclid=IwAR3gC-_d-ZAtIrGkdFyYjDr1YN9n6XdQUcy97CoTtMhxTv9ymSGns7UKiMU (pygame tutorial)
 - https://www.youtube.com/watch?v=Gu4edYy4Qpo&list=PL-J2q3Ga50oMEMpP-cyrsLh2loo2hOTwK (OOP)
 - https://www.youtube.com/watch?v=JeznW_7DlB0 (OOP)
 - https://www.youtube.com/watch?v=YXPyB4XeYLA (GUI using Tkinter)
