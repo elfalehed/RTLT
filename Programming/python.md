@@ -6,7 +6,8 @@
 - Sololearn
 - TutorialsPoint
 - Learn Python 
-- Hacker Rank 
+- Hacker Rank (Practice, Lear, Solve problems) 
+- Code Forces (Solve problems) 
 
 ## Youtube channels: <br />
 - Freecodecamp 
