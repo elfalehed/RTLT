@@ -6,12 +6,16 @@
 - Sololearn
 - TutorialsPoint
 - Learn Python 
+- Hacker Rank 
 
 ## Youtube channels: <br />
 - Freecodecamp 
 - CS dojo
+- Deep tech 
+- Tech with tim 
 
 ## Links: <br />
+- https://www.realpython.com
 - https://www.codecademy.com/learn/learn-python
 - https://docs.python.org/2/tutorial/
 - https://www.learnpython.org/
