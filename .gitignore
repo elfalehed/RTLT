@@ -1,4 +1,7 @@
 *.SWP
 *.swp
 *.swo
-*.md.swp
+*.md.sw
+.swp 
+^.swp
+
