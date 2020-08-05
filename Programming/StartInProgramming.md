@@ -1,6 +1,6 @@
 # :computer: Resources : <br />
 
-## Websites: <br / >
+## Websites: <br />
 - Solo learn 
 - Code Academy 
 - Openclassrooms
