@@ -1,6 +1,6 @@
 # :skull: What is hacking? How to learn How to hack? What should I learn? From where? <br /> <br />
 
-Welcome buddy, I'm gonna walk you through a smaller version of the world of Hacking. <br />
+Welcome buddy :wave: , I'm gonna walk you through a smaller version of the world of Hacking. <br />
 I will give you some Resources to learn from (Docs, Videos, Articles...etc) <br />
 You will find a bunch of informations & things to learn from. Try to read/watch! Be curious. <br />
 <b> <i> One thing to put in mind! </i> </b>: <br />
@@ -89,3 +89,14 @@ There is ALWAYS a way to hack a system and many ways to accomplish it. A good ha
 
 - Good problem Solver <br />
 A hacker is always coming up against seemingly unsolvable problems. This requires that the hacker be accustomed to thinking analytically and solving problems. This often demands that the hacker diagnose accurately what is wrong and then break the problem down into separate components. This is one of those abilities that comes with many hours of practice.<br />
+<br />
+
+## :bell: From where? Resources? <br />
+<b> <i> This Repository itself was made for resources to help you Hacking. and Learn a lot of other stuff. </i> </b> <br />
+<b> <i> If you wanna find a resource You have Google, Reddit, Twitter and a lot of other Great resources to dig in... </i> <b/> 
+
+<br /> <br />
+
+##  Written by: @KMx404 :heart: 
+
+
