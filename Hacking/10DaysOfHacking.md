@@ -7,6 +7,8 @@ You will find a bunch of informations & things to learn from. Try to read/watch!
 - There's no ultimate map or road to follow. A lot of Hackers started from different Points and went through different road to get 
 to one Goal which is Becoming a <i>Hacker.</i> <br /> <br />
 
+:ringtone: PS: <i> Some Resources inspired by some well-known Blogs / Website: Null-byte, Reddit hacking-sub, Wired, Aquaweb..etc</i> <br />
+
 ## What is hacking? Who is a hacker?: <br />
 <b><i>:zap: Hacking:</i></b> <br />
 
@@ -20,5 +22,36 @@ In computer security, a hacker is someone who focuses on security mechanisms of 
 A security hacker is someone who explores methods for breaching defenses and exploiting weaknesses in a computer system or network.
 
 So basically a Hacker is the one who do Hacking? Mind-blown? Haha <br /><br />
+
+
+## What do i need to learn & know??: <br />
+
+1. <b><i>:computer: Basic Computer Skills:</i></b> <br />
+
+It probably goes without saying that to become a hacker you need some basic computer skills. These skills go beyond the ability to create a Word document or cruise the Internet. You need to be able to use the command line in Windows, edit the registry, and set up your networking parameters. <br />
+
+Many of these basic skills can be acquired in a basic computer skills course like A+. <br />
+
+2. <b><i>:satellite: Networking Skills:</i></b> <br />
+You need to understand the basics of networking, such as the following. <br />
+
+- DHCP <br />
+- NAT <br />
+- Subnetting <br />
+- IPv4 <br />
+- IPv6 <br />
+- Public v Private IP <br />
+- DNS <br />
+- Routers and switches <br />
+- VLANs <br />
+- OSI model <br />
+- MAC addressing<br />
+- ARP <br />
+
+As we are often exploiting these technologies, the better you understand how they work, the more successful you will be. Note that I did not write the two guides below, but they are very informative and cover some of the networking basics mentioned above. <br />
+
+// :bulb:  Check these: <br />
+* https://null-byte.wonderhowto.com/news/hacker-fundamentals-tale-two-standards-0133727/
+* https://null-byte.wonderhowto.com/how-to/hacker-fundamentals-everymans-guide-network-packets-are-routed-across-web-0134491/
 
 
