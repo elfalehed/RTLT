@@ -1,4 +1,4 @@
-# :skull: What is hacking?, How to learn How to hack? What should I learn? From where? <br /> <br />
+# :skull: What is hacking? How to learn How to hack? What should I learn? From where? <br /> <br />
 
 Welcome buddy, I'm gonna walk you through a smaller version of the world of Hacking. <br />
 I will give you some Resources to learn from (Docs, Videos, Articles...etc) <br />
