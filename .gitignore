@@ -4,4 +4,6 @@
 *.md.sw
 .swp 
 ^.swp
+*.markdown.swp
+*.md.swp
 
