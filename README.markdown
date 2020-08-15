@@ -6,7 +6,8 @@ Programming, Hacking, Networking ..etc
 
 The structure is gonna be like this : 
 
-## Main folder 
+## :notebook: Main folder <br />
+
 ### :bookmark: Resources : <br />
 Each Resource is gonna be divided into topis: <br />
 - Programming:  Programming languages, frameworks, libraries..etc <br />
