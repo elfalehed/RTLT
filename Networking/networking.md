@@ -6,4 +6,6 @@
 
 - https://www.classcentral.com/subject/computer-networking
 
+- https://commotionwireless.net/docs/cck/networking/learn-networking-basics/
+
 
