@@ -8,6 +8,11 @@ Programming, Hacking, Networking ..etc
 
 <br /> <br />
 
+> 
+> Note :warning: <br />
+>    - Please make sure any resource you add is checked and written in Markdown format. `resource_target.md` .. 
+> 
+
 ## Resources Layout :confetti_ball: <br />
 
 
