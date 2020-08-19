@@ -21,7 +21,8 @@ Programming, Hacking, Networking ..etc
 |   ├── Python.md/                # Resources to learn python 
 |   ├── StartInProgramming.md/    # Resources & advices to start in programming (general) 
 |   |── BeginnersGuide.md/        # A guide for beginners
-|   |__ ...                       # Resources You can add 
+|   |__ Webdev.md/                # web dev
+|   |__ Algorithms.md/            # Algo & DS   
 |
 │── Hacking/                      # Resources to learn hacking
 |   │── 10DaysOfHacking.md/       # A full guide / road to become a hacker + Resources 
