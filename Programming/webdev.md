@@ -11,6 +11,8 @@
 * UX movement 
 * Web design depot 
 * web.dev 
+* CodePen (for fronend codes) 
+
 
 
 ## Links: 
