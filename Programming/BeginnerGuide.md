@@ -18,5 +18,13 @@
 * Over-commenting: Commenting is good but over commenting is gonna make your code look bad.
 
 
+### :pushpin: Some websites You should visit regularly <br />
+
+* Stackoverflow / Stackoverflow Blogs 
+* Geeksforgeeks
+* W3schools
+* TutorialsPoint
+* Programiz
+* dev.to 
 
 
