@@ -6,7 +6,7 @@
 * Sololearn
 * Code academy 
 * Udacity && Udemy
-
+* Tutorials Point 
 
 ## Links: <br />
 <b>Course from Zero to Hero ! </b>
