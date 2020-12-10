@@ -14,7 +14,6 @@ Programming, Hacking, Networking ..etc
 
 ## Resources Layout :confetti_ball: <br />
 
-
 ```shell
 ├── Programming/                  # Resources to learn programming
 |   ├── Python.md/                # Resources to learn python 
