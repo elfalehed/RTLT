@@ -15,4 +15,4 @@ Programming, Hacking, Networking ..etc
 
 ## Resources Layout :confetti_ball: <br />
 
-![alt text](theplatformschema.drawio (1).png)
+![clear](RTLT.PNG)
